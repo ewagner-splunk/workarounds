@@ -4,7 +4,7 @@
 
 This handy little hunk of javascript allows users to toggle a particular Transmog rule in their account, which is handy for silencing a particular subset of alerts without triggering global maintenance mode during deployments or known maintenance windows.
 
-A valid username and password is required.
+Requires node.js and a valid VictorOps username and password.
 
 ### Usage
 
